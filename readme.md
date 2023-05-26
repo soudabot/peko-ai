@@ -1,5 +1,5 @@
 RVC con creep y octavas
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soudabot/peko-ai/blob/main/RVC_Crepe_v2_+_persistent_storage_autosave.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soudabot/peko-ai/blob/main/RVC_Crepe_v2_%2B_persistent_storage_autosave.ipynb)
 
 Spleeter
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/soudabot/peko-ai/blob/main/spleeter.ipynb)
